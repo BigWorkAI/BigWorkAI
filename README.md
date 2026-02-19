@@ -2,7 +2,7 @@
 
 5x founder. Growth strategist. AI builder. Ultramarathoner.
 
-I build AI-powered tools at the intersection of strategy, sales, and growth — then go run 100 miles through mountains to think about what to build next.
+I build AI-powered tools at the intersection of strategy, sales, growth, and fun — then go run in mountains to think about what to build next.
 
 ---
 
@@ -21,15 +21,15 @@ I build AI-powered tools at the intersection of strategy, sales, and growth — 
 
 > *"Consistency is a superpower. The universe is always conspiring in your favor."*
 
-I operate by one simple principle: **get 3% better every day.** Not overnight. Just relentless, compounding forward motion — in business, in AI, and on the trail.
+I operate by one simple principle: **get 3% better every day.** Not overnight. Just relentless, compounding forward motion — in business, in life, in AI, and on the trail.
 
-That philosophy shows up in everything I build. Tools that actually work. Systems that compound over time. No fluff.
+That philosophy shows up in everything I build. Systems that compound over time. 
 
 ---
 
 ## 🏃 When I'm Not Shipping
 
-I run ultramarathons. Not 5Ks. Hundreds of miles through mountains and deserts.
+I run ultramarathons. Not 5Ks (although cool if you like 5ks ... your probably faster than me ;) ). Hundreds of miles through mountains and deserts.
 
 **Notable finishes:**
 - Kodiak 100M
