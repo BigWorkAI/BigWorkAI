@@ -1,6 +1,6 @@
 # Hey, I'm DaveO 👋
 
-5x founder. Growth strategist. AI builder. Ultramarathoner.
+4x founder. Growth strategist. AI builder. Ultramarathoner.
 
 I build AI-powered tools at the intersection of strategy, sales, growth, and fun — then go run in mountains to think about what to build next.
 
